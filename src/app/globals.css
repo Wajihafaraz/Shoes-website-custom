@@ -21,7 +21,7 @@ h1, h2 ,h3{
 
 /* header styles */
 .header{
-    background-color:maroon;
+    background-color:#b30000;
      padding: 20px;
      color: white;
      display: flex;
@@ -97,7 +97,7 @@ h1, h2 ,h3{
  }
  .hero button:hover{
    
-    background-color:palevioletred
+    background-color:#f54272;
  }
 
  /* about styles */
